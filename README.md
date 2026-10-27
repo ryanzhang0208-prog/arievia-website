@@ -6,6 +6,7 @@ Static site (plain HTML, CSS, and a little JavaScript), hosted on GitHub Pages.
 
 - `index.html`: English home page
 - `zh/index.html`: Chinese home page
+- `teach/index.html`, `zh/teach/index.html`: What we teach (guides, quick check, how organizations use the kit)
 - `assets/css/style.css`: styles
 - `assets/js/site.js`: motion (the site works without it)
 - `assets/img/`: photos and icons
